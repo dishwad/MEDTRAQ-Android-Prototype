@@ -1,0 +1,7 @@
+#Thu Dec 08 09:49:29 EST 2016
+base.0=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291\\classes.dex
+base.1=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291
+file.0=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41\\classes.dex
