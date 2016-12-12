@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="0d3bec6a0474b56d8a22fa29f76c39a4c560cd76">
+        sha1="fa396023646b11690c73833f781a316c0a137681">
         <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41\classes.dex" />
     </item>
     <item
@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="8427849b6b0eb344281faa9e513336177954e584">
+        sha1="c95e9aa66bdc3f9f10914dceef23d6f021f5b8f2">
         <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291\classes.dex" />
     </item>
     <item

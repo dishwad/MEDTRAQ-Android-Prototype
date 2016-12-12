@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.Medtraq.MedtraqSProximityProtot6Gi.estimote.BeaconID;
 import com.Medtraq.MedtraqSProximityProtot6Gi.estimote.EstimoteCloudBeaconDetails;
@@ -17,9 +18,9 @@ import com.android.volley.toolbox.Volley;
 import com.estimote.sdk.SystemRequirementsChecker;
 import com.estimote.sdk.cloud.model.Color;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.*;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -40,23 +41,46 @@ public class MainActivity extends AppCompatActivity {
         BACKGROUND_COLORS.put(Color.MINT_COCKTAIL, android.graphics.Color.rgb(155, 186, 160));
     }
 
+    public Boolean sink_flag = false;
+
     private static final int BACKGROUND_COLOR_NEUTRAL = android.graphics.Color.rgb(160, 169, 172);
 
     private ProximityContentManager proximityContentManager;
 
-    public void sendMyData(String location, String user){
-        final String url = "https://webdevbootcamp-dishwad.c9users.io/beacons/" + location + "/" + user;
+    public void sendMyData(String location, String user, Boolean sink_flag){
+        final String url = "https://webdevbootcamp-dishwad.c9users.io/beacons/" + location + "/" + user + "/" + sink_flag.toString();
 
         final JsonObjectRequest jsonRequest = new JsonObjectRequest(Request.Method.POST, url, null, new Response.Listener<JSONObject>() {
             @Override
             public void onResponse(JSONObject response) {
-                Log.v("MEDTRAQ: ", "RES: " + response.toString());
-
+                Log.v("MEDTRAQ sendMyData", "RES: " + response.toString());
             }
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Log.v("MEDTRAQ", "EXC: " + error.getLocalizedMessage());
+                Log.v("MEDTRAQ err sendMyData", "EXC: " + error.getLocalizedMessage());
+            }
+        });
+        Volley.newRequestQueue(this).add(jsonRequest);
+    }
+
+    public void getFlagData(){
+        final String url = "https://webdevbootcamp-dishwad.c9users.io/sink_flag/";
+
+        final JsonObjectRequest jsonRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
+            @Override
+            public void onResponse(JSONObject response) {
+                Log.v("MEDTRAQ getFlagData", "RES: " + response.toString());
+                try {
+                    if(response.getBoolean("sink_flag")) sink_flag = response.getBoolean("sink_flag");
+                } catch (JSONException e){
+                    Log.v("JSON getFlagData", "EXC: " + e.getLocalizedMessage());
+                }
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Log.v("MEDTRAQ err getFlagData", "EXC: " + error.getLocalizedMessage());
             }
         });
         Volley.newRequestQueue(this).add(jsonRequest);
@@ -87,11 +111,17 @@ public class MainActivity extends AppCompatActivity {
                     if(beaconDetails.getBeaconName().equalsIgnoreCase("candy")){
                         text = "You're near the patient bed!";
                         location = "patient_bed";
-                        sendMyData(location, "alexander");
-                    } else {
+                        getFlagData();
+                        if (!sink_flag){
+                            Toast.makeText(getApplicationContext(), "You need to wash your hands!", Toast.LENGTH_SHORT).show();
+                        }
+                        sendMyData(location, "alexander", false);
+                    } else if (beaconDetails.getBeaconName().equalsIgnoreCase("lemon")){
                         text = "You're near the the sink!";
                         location = "sink";
-                        sendMyData(location, "alexander");
+                        sendMyData(location, "alexander", true);
+                    } else {
+                        text = "No beacons in range.";
                     }
                     backgroundColor = BACKGROUND_COLORS.get(beaconDetails.getBeaconColor());
                 } else {

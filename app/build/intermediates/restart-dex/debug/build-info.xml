@@ -4,30 +4,30 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="859031063974422"
+    plugin-version="2.2.3"
+    timestamp="151438877328925"
     token="5266441583355241199"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="749" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="790" />
+        duration="0" />
     <task
         name="verifier"
-        duration="202" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="859031063974422"
+        timestamp="151438877328925"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\outputs\apk\app-debug.apk"
