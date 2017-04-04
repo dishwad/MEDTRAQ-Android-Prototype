@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 298,
+                        "startOffset": 55,
                         "endColumn": 112,
-                        "endOffset": 406
+                        "endOffset": 163
                     }
                 }
             }

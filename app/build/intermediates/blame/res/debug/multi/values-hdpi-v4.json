@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 293,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 565
+                        "endOffset": 327
                     }
                 }
             }

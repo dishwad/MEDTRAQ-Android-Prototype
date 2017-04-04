@@ -1,7 +1,7 @@
-#Sun Dec 11 18:42:27 EST 2016
-base.0=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41
+#Tue Apr 04 09:26:37 EDT 2017
+base.0=C\:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50b72ee4cd16811500651139b3678cbb405681eb
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291\\classes.dex
-base.1=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291
-file.0=C\:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41\\classes.dex
+file.1=C\:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4757c2abb4f48f4a2c364c68ffb2e3fc14b11d1f\\classes.dex
+base.1=C\:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4757c2abb4f48f4a2c364c68ffb2e3fc14b11d1f
+file.0=C\:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50b72ee4cd16811500651139b3678cbb405681eb\\classes.dex

@@ -1,119 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:3:5-53
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:15:5-67
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:8:5-23:19
-MERGED from [com.android.support:design:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:22:5-37:19
-MERGED from [com.android.volley:volley:unspecified] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.volley\volley\unspecified\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\62108dd22800bdd2b12fa33772f71ffc8067f4ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\fc367522902066b912d1c86585ae945310991c74\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b036f36e8e3ff54579e0713d2ecb3098e732916\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Alex\.android\build-cache\4cd82bbee1a0dc04d24f09827e58b8faf2466676\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\ee609e72763c7ea7c42567c5aa02faf4d41c63d2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\b489bc530def1dd7d664c9b28a4729f32d971286\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\d9769aa21fb8ee9e0f3e439c5130d4fc9e42d4c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\7c19b091335c7755796f628e9c14f517a88372aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\0e906f74365b60aa2bc1865dd1b6b4a7b0a50c0d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\14a777f25235a29f3f1db879616c7c3bfb7c0b82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:22:5-37:19
+MERGED from [com.android.volley:volley:unspecified] C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\volley\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:13:9-35
 	android:allowBackup
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:14:9-40
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:9:9-38
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:9:9-38
 activity#com.Medtraq.MedtraqSProximityProtot6Gi.MainActivity
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:16:9-21:20
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:16:9-21:20
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:unspecified] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.volley\volley\unspecified\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\62108dd22800bdd2b12fa33772f71ffc8067f4ec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\fc367522902066b912d1c86585ae945310991c74\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b036f36e8e3ff54579e0713d2ecb3098e732916\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Alex\.android\build-cache\253a2b8d2e3360197924a29439edf66b3fe93da2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Alex\.android\build-cache\4cd82bbee1a0dc04d24f09827e58b8faf2466676\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\ee609e72763c7ea7c42567c5aa02faf4d41c63d2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\b489bc530def1dd7d664c9b28a4729f32d971286\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\d9769aa21fb8ee9e0f3e439c5130d4fc9e42d4c4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\7c19b091335c7755796f628e9c14f517a88372aa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\0e906f74365b60aa2bc1865dd1b6b4a7b0a50c0d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\14a777f25235a29f3f1db879616c7c3bfb7c0b82\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:unspecified] C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\volley\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\62108dd22800bdd2b12fa33772f71ffc8067f4ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\fc367522902066b912d1c86585ae945310991c74\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b036f36e8e3ff54579e0713d2ecb3098e732916\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Alex\.android\build-cache\253a2b8d2e3360197924a29439edf66b3fe93da2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Alex\.android\build-cache\4cd82bbee1a0dc04d24f09827e58b8faf2466676\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\ee609e72763c7ea7c42567c5aa02faf4d41c63d2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\b489bc530def1dd7d664c9b28a4729f32d971286\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\d9769aa21fb8ee9e0f3e439c5130d4fc9e42d4c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\7c19b091335c7755796f628e9c14f517a88372aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\0e906f74365b60aa2bc1865dd1b6b4a7b0a50c0d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\14a777f25235a29f3f1db879616c7c3bfb7c0b82\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Alex\.android\build-cache\8b8d432ee690904d06f08199c8da61f6213b2682\output\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.BLUETOOTH
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:10:5-68
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:10:22-65
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:10:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:11:5-74
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:11:5-74
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:11:22-71
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:11:22-71
 uses-permission-sdk-23
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:13:5-88
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:13:5-88
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:13:29-85
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:13:29-85
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:16:5-79
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:16:22-76
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:16:22-76
 uses-feature#android.hardware.bluetooth_le
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:18:5-20:36
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:18:5-20:36
 	android:required
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:20:9-33
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:19:9-53
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:19:9-53
 service#com.estimote.sdk.service.BeaconService
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:23:9-25:40
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:23:9-25:40
 	android:exported
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:25:13-37
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:24:13-66
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:24:13-66
 service#com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:26:9-115
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:26:9-115
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:26:18-112
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:26:18-112
 activity#com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:28:9-30:56
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:28:9-30:56
 	android:theme
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:30:13-53
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:30:13-53
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:29:13-88
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:29:13-88
 receiver#com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:32:9-102
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:32:9-102
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:32:19-99
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:32:19-99
 service#com.estimote.sdk.connection.internal.DeviceConnectionProviderService
-ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:34:9-36:40
+ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:34:9-36:40
 	android:exported
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:36:13-37
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from [com.estimote:sdk:0.10.8] C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\AndroidManifest.xml:35:13-96
+		ADDED from [com.estimote:sdk:0.15.0] C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\AndroidManifest.xml:35:13-96

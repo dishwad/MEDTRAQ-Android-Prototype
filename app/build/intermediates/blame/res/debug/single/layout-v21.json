@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

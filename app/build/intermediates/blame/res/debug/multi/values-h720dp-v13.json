@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\Alex\\Desktop\\Development\\MEDTRAQ-Android-Prototype\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\Desktop\\MedtraqSProximityProtot6Gi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "C:\\Users\\Alex\\.android\\build-cache\\62108dd22800bdd2b12fa33772f71ffc8067f4ec\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 290,
+                        "startOffset": 55,
                         "endColumn": 66,
-                        "endOffset": 352
+                        "endOffset": 117
                     }
                 }
             }

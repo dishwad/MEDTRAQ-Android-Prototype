@@ -6,12 +6,14 @@
 
     <uses-sdk
         android:minSdkVersion="18"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <!-- Needed for Bluetooth low energy scanning. -->
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Needed for Bluetooth low energy scanning. -->
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" /> <!-- Needed for Bluetooth scanning on Android M and above. -->
     <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -23,8 +25,7 @@
         android:required="false" />
 
     <application
-        name="com.Medtraq.MedtraqSProximityProtot6Gi.MyApplication"
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:name="com.Medtraq.MedtraqSProximityProtot6Gi.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -52,6 +53,9 @@
         <service
             android:name="com.estimote.sdk.connection.internal.DeviceConnectionProviderService"
             android:exported="false" />
+        <service
+            android:name="com.android.tools.fd.runtime.InstantRunService"
+            android:exported="true" />
     </application>
 
 </manifest>

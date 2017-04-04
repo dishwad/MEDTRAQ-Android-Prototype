@@ -3,84 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_9171dc11d4c8782acebf5d33c565561c4f735fca\classes.dex" />
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4757c2abb4f48f4a2c364c68ffb2e3fc14b11d1f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Alex\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="C:\Users\Alex\.android\build-cache\99158f3188e26938210621f12861753a8e8dfa9e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_3953c2d417298177d57adac823644bd7a0392571\classes.dex" />
+        revision="25.0.2"
+        sha1="12862d724fab4569a25576ddc7b9bda2377ced25">
+        <dex dex="C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_807ab613c6d381b40ff44745479228948922c4e0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="fa396023646b11690c73833f781a316c0a137681">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d41d76ca067c322b6a716f72ecd9ac5d716bae41\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_8a5a82781a025b38a84406e350584919a37b6c9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_cb84c224f5024e2ec63ac8c7c0701c30caf68b4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="c95e9aa66bdc3f9f10914dceef23d6f021f5b8f2">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9fcc2ac30343073004ca14b1fa9253e540056291\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.estimote-sdk-0.10.8_3949182e2f731cc272c42a84bf9bdd2cd1bdcc65\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_bd2723d4899e1ef52c51b68ad1fad4088260e0c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Users\Alex\Desktop\MedtraqSProximityProtot6Gi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_662bba4a9f28466ecfad5d71a80ead9bc4c90c1d\classes.dex" />
+        revision="25.0.2"
+        sha1="8c36931cbc846e98ef07d6ba51c9f46277af5565">
+        <dex dex="C:\Users\Alex\Desktop\Development\MEDTRAQ-Android-Prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50b72ee4cd16811500651139b3678cbb405681eb\classes.dex" />
     </item>
 
 </items>
